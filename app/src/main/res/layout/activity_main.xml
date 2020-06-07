@@ -73,6 +73,7 @@
             android:layout_weight="1"
             android:text="@string/search" />
     </LinearLayout>
+
     <include layout="@layout/activity_maps" />
 
 </LinearLayout>
